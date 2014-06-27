@@ -1,0 +1,27 @@
+---
+abstract: 'store information about a regexp match for later retrieval'
+author:
+  - 'Daniel Perrett <perrettdl@googlemail.com>'
+build_requires:
+  ExtUtils::MakeMaker: 0
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.72, CPAN::Meta::Converter version 2.132140'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Regexp-Result
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  Test::More: 0
+  perl: 5.010
+resources:
+  bugtracker: http://github.com/pdl/Regexp-Result/issues
+  homepage: http://github.com/pdl/Regexp-Result
+  repository: http://github.com/pdl/Regexp-Result
+version: 0.001
