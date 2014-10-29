@@ -3,6 +3,7 @@ lib/Regexp/Result.pm
 MANIFEST
 README
 t/simple-stuff.t
+t/exports.t
 Makefile.PL
 
 META.yml                                 Module YAML meta-data (added by MakeMaker)
